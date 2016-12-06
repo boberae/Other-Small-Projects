@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1456265618 source:c:\users\bober\documents\egr 468\heattranslabproj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
